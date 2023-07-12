@@ -1,0 +1,2656 @@
+fileFormatVersion: 2
+guid: 38b016edcdf498f519d53c69231410eb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: doom_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 453
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d7c942ee538750cbc20bb605675bba
+      internalID: -907035654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 453
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379250c6856b618aaaab92249c34e224
+      internalID: 395230364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 453
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44b52704866c9a17977b65187e4b652
+      internalID: 1813212993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 453
+        width: 63
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5906cf0566e796ffa4ea08b8956d67c
+      internalID: 1749427909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 453
+        width: 51
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd00ed8fb657331beb6d5fe5d593812f
+      internalID: -329203377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 453
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1728caf20d8a70d591fac02006fb231
+      internalID: -494169182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 453
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbc068a421567ca6ab574bd8fd20979
+      internalID: 1587545145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 453
+        width: 70
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec173093bb8f2e72a8b0f96cc810670d
+      internalID: 34032139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 453
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4799d2fd8e8ec2c588053cfeac0f2c9
+      internalID: -743626765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 451
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9938272acbbce74169a99504f04a7f4a
+      internalID: 243514520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 453
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3459fa2918f8e6070b42d6cfe2033a5e
+      internalID: -1717391832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 453
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454a84b0b303e5f048bd58a9a3aab566
+      internalID: -1941608527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 453
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8cf782d7afe56d98647b26f5a3609d
+      internalID: 2025855898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 453
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bdaef0c85464e238bcb16fd53c72e1
+      internalID: 364957392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 453
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9dc474cee9a3b5b950153774d1c435
+      internalID: 1184243400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 453
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f2ce274721eadf78bae2600e82bb53
+      internalID: 1449502728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 453
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c4d362a97cd8bafb53a88d6eafa943
+      internalID: -1439093824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_17
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 453
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a713f08f6f88b7d3ba161d4bd10ff775
+      internalID: -39224498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_18
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 453
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f9a76d86187a73e82644803048310a
+      internalID: -472507096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_19
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 453
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6c092a44fb739aebce84288a3574eb
+      internalID: -1514615655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_20
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 453
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efd6ca926e9f1e8388b1fb46087fafc
+      internalID: 68265286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_21
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 453
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf8a336e41e4a119947557ddb94e836
+      internalID: -140765841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunfire
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 429
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6ad74def385e2e786dc6e96d7aebf8
+      internalID: 670857749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_23
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 453
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9582fc6bd07bbf87bba8fd0812d052af
+      internalID: -1905357034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_24
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 453
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf776532a5e1809b9d257ce1b97bee3
+      internalID: 1255017976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_25
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 453
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f287c7037772f4fa0bad71ae270145f8
+      internalID: 12415702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_26
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 437
+        width: 63
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcba3c58dc589a81a3d80ed29f90f1f
+      internalID: 2139525452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunmini
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 429
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a56a87f47b09037affd98a9a9e4edd
+      internalID: -1370490714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun05
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 343
+        width: 78
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a628d793d1d7422bb674656fd2773f9
+      internalID: 1716865675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_29
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 405
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faec89cc537955d2a018c39e092d47b
+      internalID: -1071679429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_30
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 405
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246b8391aa5e5e704bcaf74dcaae4aa0
+      internalID: 497205016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_31
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 405
+        width: 43
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17c2f6ddd0a21ef7afa727d5aecbfaf
+      internalID: 1669610423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 405
+        width: 66
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc317aba177e01db86a8bb3ff9c21f1
+      internalID: 1742978335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 343
+        width: 147
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e966bc23cd72ae82ac12d076fe7609f
+      internalID: -1641178945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_34
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 343
+        width: 153
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711b0666d7491bbf5a4b26b11788951d
+      internalID: 2051429838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_35
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 343
+        width: 154
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44372d2bf1b07b5c09c4a7bce0f4d76d
+      internalID: 630903805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_36
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 401
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de4417f8dc468a849b85839513acbfa
+      internalID: -133590009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun00
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 343
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca2b8affc953d24aa5a3bdf2451d57b
+      internalID: 1175368933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun02
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 343
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914a324137a96ecc0baea1ca43d02b3f
+      internalID: -906551038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun04
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 343
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c78baf114557205837349747a0bfa1
+      internalID: -421630753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 342
+        width: 116
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d71f4dac3e36b6c8def6a49a5c469f
+      internalID: 1070285520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_42
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 343
+        width: 80
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb26626a608bf22d2882d17e500fb883
+      internalID: 259891198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_43
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 343
+        width: 107
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e7d2dae3c0d62098f683c03ddb45b6
+      internalID: 1657040177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_44
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 343
+        width: 140
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bbf4da11e5927ca9522a808bbb6d6c
+      internalID: 37149697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_45
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 343
+        width: 140
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c5296166156cb91bf3752883f5f21f
+      internalID: -1079726620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun01
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 343
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4fad57616de3cd790dfa7e5c582fc6
+      internalID: 1588916306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_47
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 307
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5535f2ec0e2ab84ee8df93d71438d158
+      internalID: 1003821846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_48
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 307
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ddc113d25e93889acae5a38a720335
+      internalID: 1919402156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_49
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 307
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3661148d1be643c8b826bc01e3496ed
+      internalID: -2133009289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_50
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 296
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86e641dbb1eca52e9ef2e898e0d00c0
+      internalID: -1245595380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_51
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 296
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d249aebb8a778a5a3a8e72060b56d2
+      internalID: -1178483827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgun03
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 172
+        width: 87
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df31d663c176f3739303611f2755811
+      internalID: -2026821727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_53
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 279
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265d54ef00bddfe379a3987366f2e8c0
+      internalID: -1268943353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_54
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 279
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05500bcdd10e54c008e366275badeef0
+      internalID: -1400895584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgun02
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 172
+        width: 119
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94c8235de38e407a912f933eee6dda4
+      internalID: 37767272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgun04
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 172
+        width: 113
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40744cf5af6f19b53a99ec19aef35c03
+      internalID: 1132093115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_57
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 173
+        width: 121
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192a44d45eba6b991be345c7e7467756
+      internalID: -769437781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_58
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 281
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b621f4d04a97a81229c60fcf623ba722
+      internalID: -391712865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_59
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 281
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84123d75f4536e52d9f5b0a59b43f1da
+      internalID: -1134566953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_60
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 281
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339980360549057709cd1a771e49f432
+      internalID: 431715694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_61
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 281
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab059a40b66b8a7f297b29e8d32d521d
+      internalID: -1153777706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_62
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 235
+        width: 63
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324674f9e428eed268e8bd63a960099c
+      internalID: 1141094349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_63
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 230
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5025d61e607f4378714bedd1e79579
+      internalID: -761445956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_64
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 173
+        width: 83
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbca9da680f6596e2b453e895e87614c
+      internalID: -562910805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_65
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 173
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7909d0361de5dae22bfdf6caa8b49cbd
+      internalID: -1865686134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_66
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 173
+        width: 101
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41ff44d2c6605095b9a01246ef2413d
+      internalID: 1387971057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_67
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 173
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9516a7872ee7f0b67bb219cacda488ed
+      internalID: 938099648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_68
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 173
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df883557bd01bb568834250443f301cd
+      internalID: -1706704162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shotgun00
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 172
+        width: 79
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b205de53583ad688389f7fa563483470
+      internalID: 2089701531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doubleshotgun00
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 172
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0e0785df114edb3aed838566381434
+      internalID: 2040617837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_71
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 173
+        width: 77
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4f9ec92657f1104a87a4f98d28f50d
+      internalID: 1868932513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_72
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 173
+        width: 88
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40af2c30b7b2c89f6b1edc535dce8a91
+      internalID: 2022919908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_73
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 154
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e372ead030201e59893897fc66019e19
+      internalID: -1060172989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_74
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 144
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2420deb04be607d989c037a7cdfbaa
+      internalID: -196904022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_75
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 154
+        width: 50
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c075550042c905eb0954740a8cd431
+      internalID: -1492535729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_76
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 154
+        width: 67
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb959ef61c189f4bb1b734255572495
+      internalID: 28051796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_77
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 141
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60faa5b07da7da48099be8d19af8c275
+      internalID: 1916722168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_78
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 157
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d830d98af094466b97ee6e08307c0d3
+      internalID: 715262748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_79
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 145
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1f21534c47397729718be0dcb2b605
+      internalID: 2014056031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_80
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 95
+        width: 139
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ca552f7d3dc8e13935640d59f3a79d
+      internalID: -216071196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_81
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 90
+        width: 88
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375d0168d0cba7efa96b64c1094a8c41
+      internalID: 1217122552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_82
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 125
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7305374106c12cf34ab8d16139140a74
+      internalID: -1849111396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_83
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 143
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b35cd9cff772d6eaa28a6c1da4f3895
+      internalID: -238733264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_84
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 145
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd29e27b91c1f70d9a60cf4419d0a90
+      internalID: 1787965016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_85
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 145
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01cf123ac32b6bb8b021b7f36f26d8f
+      internalID: 1752454406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_86
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 145
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beebd0433deba96d892f258a64d76b1e
+      internalID: -1331980990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_87
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 145
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d7518ba802a7bbf87c7848456c986d
+      internalID: -2058010228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_88
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 145
+        width: 54
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67b465cb31a07fa5a2b375193d605d8
+      internalID: -868619814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_89
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 145
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c7f6d6ec17c374695025fc0608561c
+      internalID: 1477695421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_90
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 94
+        width: 86
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9126df7d92bcbe377ba0ecc2e89e541c
+      internalID: 818723777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_91
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 94
+        width: 85
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516b49dfd089b00d989aecc87c829226
+      internalID: -743517594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_92
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 90
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e155a3e322216b4915f6f4e672b246
+      internalID: 1460415473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_93
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 90
+        width: 99
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cd816fb131c31d99d1ce4ed3641c9d
+      internalID: -900389985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_94
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 135
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48d809ecbaad98d3a4691c53f13a3f8
+      internalID: -817632327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_95
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 90
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea5f50241cd2a51fbc9b02842090ecd
+      internalID: 1678641134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_96
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 105
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34112b60dff23f50891a7cbd4fb6e730
+      internalID: -1067803466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_97
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 110
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da50d5915300c9009ca9efe2db583f1
+      internalID: -938505202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_98
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 105
+        width: 47
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c892809ecdaf10aa971d3a9804aee7
+      internalID: -1845479356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_99
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 105
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b36ea3f75bc2de99f9a15cb3168d9e
+      internalID: 723632503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_100
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 8
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b8fe2eafd50ea68a5e31b780288e15
+      internalID: -745301869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_101
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 95
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38815cfcc0382a7a5be0a73401c37965
+      internalID: 1124251714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_102
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 100
+        width: 82
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1473171b08878720c91d4e19c480c7e7
+      internalID: -1939629379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 113
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3ff8644df32f787847f2036e42f8ea
+      internalID: 981834160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_104
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 8
+        width: 114
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da36a79e6bbcb1829e6e7acf6bc10d1
+      internalID: 1675405806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_105
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 8
+        width: 87
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa07dbb371b4dfd5ac55e6e5a9aca5f
+      internalID: 1759995595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_106
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 8
+        width: 102
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df5d26f947380c899254c0452a35b0d
+      internalID: 1244751663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_107
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 68
+        width: 62
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c1afc43a8d581809603b3e15c6eaa9
+      internalID: -393437880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_108
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 72
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249282604e9a7c9aa89bf32d8bb8a1b3
+      internalID: 772149892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_109
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 8
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7df3c7a49d328eda8d9f7c1ecc1582
+      internalID: 1219197922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_110
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 8
+        width: 85
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c915aa519ee4c518c69755b4499e3f
+      internalID: -322415585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_111
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 8
+        width: 170
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d34a75dd2e175ef28a76d06fd1f22fd
+      internalID: -1964505074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_112
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 8
+        width: 170
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d7148dd46b1ae91bbc67d49c762158
+      internalID: 801532079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_113
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 8
+        width: 156
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3586656a498e5c9a4e83e38c0e2082
+      internalID: -1947163637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_sprites_114
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 8
+        width: 83
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a181ec3d3f6d2dbd9bcbc44c2760fb7
+      internalID: -115466801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b897f413c99698a628facdb8802d55e6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      doom_sprites_73: -1060172989
+      shotgun02: 37767272
+      doom_sprites_114: -115466801
+      doom_sprites_50: -1245595380
+      doom_sprites_13: 364957392
+      doom_sprites_2: 1813212993
+      doom_sprites_4: -329203377
+      doom_sprites_48: 1919402156
+      doom_sprites_108: 772149892
+      doom_sprites_10: -1717391832
+      doom_sprites_61: -1153777706
+      doom_sprites_19: -1514615655
+      doom_sprites_67: 938099648
+      gun02: -906551038
+      doom_sprites_0: -907035654
+      doom_sprites_92: 1460415473
+      shotgun04: 1132093115
+      doom_sprites_65: -1865686134
+      doom_sprites_76: 28051796
+      doom_sprites_82: -1849111396
+      doom_sprites_91: -743517594
+      doom_sprites_81: 1217122552
+      doom_sprites_86: -1331980990
+      doom_sprites_103: 981834160
+      doom_sprites_16: -1439093824
+      doom_sprites_53: -1268943353
+      doom_sprites_90: 818723777
+      doubleshotgun00: 2040617837
+      doom_sprites_36: -133590009
+      doom_sprites_21: -140765841
+      doom_sprites_30: 497205016
+      doom_sprites_5: -494169182
+      doom_sprites_14: 1184243400
+      doom_sprites_18: -472507096
+      doom_sprites_25: 12415702
+      doom_sprites_109: 1219197922
+      doom_sprites_111: -1964505074
+      gun04: -421630753
+      doom_sprites_75: -1492535729
+      doom_sprites_84: 1787965016
+      doom_sprites_98: -1845479356
+      doom_sprites_78: 715262748
+      doom_sprites_57: -769437781
+      doom_sprites_83: -238733264
+      doom_sprites_45: -1079726620
+      doom_sprites_9: 243514520
+      doom_sprites_77: 1916722168
+      doom_sprites_96: -1067803466
+      shotgun03: -2026821727
+      doom_sprites_113: -1947163637
+      doom_sprites_43: 1657040177
+      doom_sprites_1: 395230364
+      doom_sprites_17: -39224498
+      doom_sprites_59: -1134566953
+      doom_sprites_44: 37149697
+      doom_sprites_72: 2022919908
+      doom_sprites_104: 1675405806
+      doom_sprites_80: -216071196
+      doom_sprites_41: 1070285520
+      doom_sprites_95: 1678641134
+      gun05: 1716865675
+      doom_sprites_26: 2139525452
+      doom_sprites_94: -817632327
+      doom_sprites_85: 1752454406
+      doom_sprites_62: 1141094349
+      doom_sprites_6: 1587545145
+      doom_sprites_68: -1706704162
+      doom_sprites_3: 1749427909
+      doom_sprites_23: -1905357034
+      doom_sprites_51: -1178483827
+      doom_sprites_87: -2058010228
+      doom_sprites_93: -900389985
+      doom_sprites_102: -1939629379
+      gunmini: -1370490714
+      doom_sprites_29: -1071679429
+      doom_sprites_63: -761445956
+      doom_sprites_71: 1868932513
+      doom_sprites_106: 1244751663
+      doom_sprites_64: -562910805
+      doom_sprites_115: -298118352
+      doom_sprites_58: -391712865
+      doom_sprites_24: 1255017976
+      doom_sprites_42: 259891198
+      gunfire: 670857749
+      doom_sprites_112: 801532079
+      gun01: 1588916306
+      doom_sprites_15: 1449502728
+      doom_sprites_33: -1641178945
+      doom_sprites_66: 1387971057
+      doom_sprites_47: 1003821846
+      doom_sprites_105: 1759995595
+      shotgun00: 2089701531
+      doom_sprites_8: -743626765
+      gun00: 1175368933
+      doom_sprites_35: 630903805
+      doom_sprites_99: 723632503
+      doom_sprites_100: -745301869
+      doom_sprites_54: -1400895584
+      doom_sprites_34: 2051429838
+      doom_sprites_88: -868619814
+      doom_sprites_12: 2025855898
+      doom_sprites_20: 68265286
+      doom_sprites_31: 1669610423
+      doom_sprites_107: -393437880
+      doom_sprites_49: -2133009289
+      doom_sprites_7: 34032139
+      doom_sprites_79: 2014056031
+      doom_sprites_11: -1941608527
+      doom_sprites_60: 431715694
+      doom_sprites_110: -322415585
+      doom_sprites_97: -938505202
+      doom_sprites_101: 1124251714
+      doom_sprites_40: 1562876651
+      doom_sprites_89: 1477695421
+      doom_sprites_74: -196904022
+      doom_sprites_32: 1742978335
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
